@@ -45,6 +45,9 @@
 
 ## 04-Perl安全
 
+- http://www.nohup.cc/article/142
+- https://github.com/rafalrusin/web-shell
+
 ## 05-Perl逆向
 
 ## 06-Perl老师
